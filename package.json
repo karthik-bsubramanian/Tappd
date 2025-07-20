@@ -1,5 +1,5 @@
 {
-  "name": "Tappd",
+  "name": "tappd",
   "private": true,
   "scripts": {
     "build": "turbo run build",
